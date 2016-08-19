@@ -1,0 +1,10 @@
+.validation__error {
+	color: $button-fab-active-color-alt;
+	font-size: 12px;
+	span {
+		display: none;
+		&:first-child {
+			display: block;
+		}
+	}
+}

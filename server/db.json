@@ -1,0 +1,24 @@
+{
+  "shops": [
+    {
+      "name": "test",
+      "owner_name": "test",
+      "email": "test@test.com",
+      "domain": "test",
+      "birth_date": "2016-08-19T14:45:33.029Z",
+      "cnpj": "12.312.312/3131-31",
+      "zipcode": "12902-040",
+      "address": "Rua Doutor Waldemar Martins Ferreira",
+      "suberb": "Jardim América",
+      "number": 123,
+      "state": "SP",
+      "city": "Bragança Paulista",
+      "phones": [
+        "1123",
+        "321"
+      ],
+      "created_at": "2016-08-19T14:45:33.029Z",
+      "id": 1
+    }
+  ]
+}

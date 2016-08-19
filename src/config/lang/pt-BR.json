@@ -1,0 +1,42 @@
+{
+	"sidebar": {
+		"dashboard": "Dashboard",
+		"shops": "Lojas"
+	},
+	"shop": {
+		"form": {
+			"buttons": {
+				"list_shops": "Lista de lojas",
+				"save": "Save"
+			},
+			"labels": {
+				"address": "Endereço",
+				"birth_date": "Data de aniversário",
+				"cnpj": "CNPJ",
+				"city": "Cidade",
+				"contacts": "Contatos",
+				"domain": "Domain",
+				"email": "E-mail",
+				"name": "Nome da Loja",
+				"number": "Número",
+				"owner_name": "Nome do Proprietário",
+				"state": "Estado",
+				"suberb": "Bairro",
+				"zipcode": "CEP",
+				"zipcode_invalid": "CEP inválido"
+			}
+		},
+		"list": {
+			"buttons": {
+				"save_shop": "Cadastrar nova loja"
+			},
+			"labels": {
+				"created_at": "Criado em",
+				"email": "E-mail",
+				"list_shops": "Listar lojas",
+				"name": "Nome da loja",
+				"owner": "Nome do Proprietário"
+			}
+		}
+	}
+}
