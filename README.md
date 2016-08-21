@@ -29,7 +29,7 @@ The main features and tools this project has are:
  - axios
  
 
-## How does it works?
+## How does it work?
 
 To get the project up and running, run the following commands:
 
